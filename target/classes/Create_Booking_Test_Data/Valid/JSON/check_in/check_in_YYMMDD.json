@@ -1,0 +1,11 @@
+{
+  "firstname" : "George",
+  "lastname" : "Crown",
+  "totalprice" : 200,
+  "depositpaid" : false,
+  "bookingdates" : {
+    "checkin" : "20-12-15",
+    "checkout" : "2021-01-01"
+  },
+  "additionalneeds" : "breakfast quilt"
+}

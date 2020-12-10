@@ -1,0 +1,11 @@
+{
+  "firstname" : "George",
+  "lastname" : "Crown",
+  "totalprice" : 200,
+  "depositpaid" : false,
+  "bookingdates" : {
+    "checkin" : "2020-12-15",
+    "checkout" : "2021-01-01"
+  },
+  "additionalneeds" : "羽彤"
+}
