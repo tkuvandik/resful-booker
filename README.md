@@ -10,11 +10,11 @@ Following commands will help you to run the framework easily via terminal screen
 
 - **mvn test :** It will run all the available features
 
-- **mvn test -Dcucumber.options="src/test/resources/Component_Tests/Delete_Booking.feature"** : You can specify the feature file by overriding the Dcucumber options
+- **mvn test -Dcucumber.options="src/test/resources/Component_Tests/Delete_Booking.feature"** : You can specify the feature file by overriding the DcucumberOptions
  
-- **mvn test -Dcucumber.options="--tags @StatusCode"** : You can specify the tag names those are in the feature files by overriding the Dcucumber options
+- **mvn test -Dcucumber.options="--tags @StatusCode"** : You can specify the tag names those are in the feature files by overriding the DcucumberOptions
 
-Following path will help you to specify the feature files or tags that need to be run by overriding the Dcucumber options:
+Following path will help you to specify the feature files or tags that need to be run by overriding the DcucumberOptions:
                                                                                        
 - **src/main/test/java/com/billie/component/CucumberRun.java** : Click to run button, specified tests as below will be run
 
